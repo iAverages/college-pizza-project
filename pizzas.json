@@ -1,0 +1,52 @@
+[
+    {
+        "id": 2,
+        "name": "BBQ Chicken",
+        "toppings": ["Chargrilled chicken", "barbeque sauce", "bacon", "onions"],
+        "cost": 7.9
+    },
+    {
+        "id": 7,
+        "name": "The Mexican",
+        "toppings": ["Jalapeno peppers", "red peppers", "spicy beef", "onions"],
+        "cost": 9.7
+    },
+    {
+        "id": 3,
+        "name": "Meat Feast",
+        "toppings": ["Ham", "pepperoni", "sausage", "bacon", "spicy beef"],
+        "cost": 8.1
+    },
+
+    {
+        "id": 5,
+        "name": "Hawaii",
+        "toppings": ["Ham", "pineapple", "mushrooms"],
+        "cost": 8.9
+    },
+    {
+        "id": 6,
+        "name": "Mediterranean",
+        "toppings": ["Chorizo", "Italian-style sausage", "jalapeno sausage"],
+        "cost": 9.5
+    },
+    {
+        "id": 1,
+        "name": "Cheese & Tomato",
+        "toppings": ["Italian-style six-cheese blend"],
+        "cost": 7.5
+    },
+
+    {
+        "id": 8,
+        "name": "The Works",
+        "toppings": ["Pepperoni", "sausage", "ham", "mushrooms", "green peppers"],
+        "cost": 9.9
+    },
+    {
+        "id": 4,
+        "name": "Piri-Piri Chicken",
+        "toppings": ["Chilli pepper sauce", "chargrilled chicken"],
+        "cost": 8.8
+    }
+]
